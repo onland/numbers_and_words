@@ -1,0 +1,7 @@
+nl:
+  numbers:
+    ones: [nul, één, twee, drie, vier, vijf, zes, zeven, acht, negen]
+    teens: [tien, elf, twaalf, dertien, veertien, vijftien, zestien, zeventien, achttien, negentien]
+    tens: [nul, tien, twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig]
+    hundreds: honderd
+    mega: [ones, thousand, million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion]
